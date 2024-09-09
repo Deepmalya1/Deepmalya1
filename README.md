@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Computer Science Student who is passionate about Software Development, AI/ML, Web Development ,Computational Sciences.<br>Who likes to make new things and have fun in the way of learning.
+A Computer Science Student who is passionate about Software Development, AI/ML, Web Development and Computational Sciences.<br>More Importantly likes to make new things and have fun in the way of learning.
 
 
 ## 🌐 Socials:
@@ -20,5 +20,9 @@ A Computer Science Student who is passionate about Software Development, AI/ML, 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepmalya1&icon=5&color=8)](https://visitcount.itsvg.in)
+
+### 🖼️ My GitHub Activity Globe
+[![My GitHub Globe](https://github-contributions.glitch.me/?username=Deepmalya1)](https://github-contributions.glitch.me/)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
