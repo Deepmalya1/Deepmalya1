@@ -21,8 +21,7 @@ A Computer Science Student who is passionate about Software Development, AI/ML, 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepmalya1&icon=5&color=8)](https://visitcount.itsvg.in)
 
-### 🖼️ My GitHub Activity Globe
-[![My GitHub Globe](https://github-contributions.glitch.me/?username=Deepmalya1)](https://github-contributions.glitch.me/)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
