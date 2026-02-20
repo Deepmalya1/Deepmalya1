@@ -1,5 +1,15 @@
-# 💫 About Me:
+#  About Me:
 A Computer Science Student who is passionate about Software Development, AI/ML, Web Development and Computational Sciences.<br>More Importantly likes to make new things and have fun in the way of learning.
+
+## Projects (Except Open Source) ~
+1. [Web Scraping Language](https://github.com/Deepmalya1/Web_Scraping_Language)
+2. [Famebot](https://www.famebot.co.in) (updating & clearing bugs)
+3. [Pystyle IDE](https://github.com/Deepmalya1/PyStyle-IDE)
+4. [BYOK-UI](https://github.com/Deepmalya1/byok-ui) (working on)
+5. Zynthelis (currently private repo)
+6. [Space Mission Planner Python Package](https://github.com/Deepmalya1/space-mission-planner)
+7. [Deep's browser](https://github.com/Deepmalya1/Deep-s-Browser---Custom-Browser--) (will be updated very soon with deployables)
+
 
 
 ## 🌐 Socials:
@@ -12,8 +22,8 @@ A Computer Science Student who is passionate about Software Development, AI/ML, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepmalya1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepmalya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepmalya1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
